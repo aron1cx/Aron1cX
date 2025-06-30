@@ -13,7 +13,7 @@
       alt="Telegram"
     />
   </a>
-  <a href="discord://-/users/618462322532286475">
+  <a href="https://tinyurl.com/565yfrh2">
     <img
       src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" 
       alt="Discord"
